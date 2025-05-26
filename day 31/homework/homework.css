@@ -1,0 +1,28 @@
+.h1{
+    background-color: aqua;
+    border-radius: 20px;
+    margin:  10px;
+}
+
+.para{
+    background-color: darkmagenta;
+     border-radius: 20px;
+    margin:  10px;
+
+}
+
+.gara{
+    background-color: firebrick;
+     border-radius: 20px;
+    margin:  10px;
+}
+
+.auu{
+    background-color: darkturquoise;
+      border-radius: 20px;
+    margin:  10px;
+}
+
+body{
+    background-color: lightskyblue;
+}
